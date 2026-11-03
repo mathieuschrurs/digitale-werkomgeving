@@ -1,0 +1,3 @@
+Hier staan enkele willekeurige lijnen tekst
+
+Gewoon als test om te zien of ik makkelijk met git kan werken. 
